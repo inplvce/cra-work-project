@@ -53,7 +53,7 @@ export const HW2 = () => {
         //     return user.address.city === "New York"
         // }
         // const filteredUsers = currentUsers.myFriends.filter(filterCallback);
-        const filteredUsers = currentUsers.myFriends.filter((user) => user.address.city === 'New York')
+        const filteredUsers = currentUsers.myFriends.filter((user) => user.address.city === 'Los Angeles')
         console.log(filteredUsers)
         setCurrentUsers({myFriends: filteredUsers});
     };
