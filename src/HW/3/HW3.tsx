@@ -21,13 +21,8 @@ export const HW3 = () => {
   };
 
   const handleSave = () => {
-
       if(!currentText.trim()) return
-
-    // ЗАСЕТАТЬ БЫ ТЕКСТ В texts И НЕ ПОТЕРЯТЬ НАПУТСТВИЕ ИЗ ПРОШЛОГО ВЕКА)
-      const copy = [...texts]
-      const temp = copy.concat(currentText)
-      setTexts(temp)
+      setTexts((texts)=>[...texts, currentText])
       // А ЗАТЕМ УБРАТЬ ЗА СОБОЙ В currentText
       setCurrentText("")
 

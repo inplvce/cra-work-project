@@ -11,7 +11,7 @@ function App() {
       <HW1 />
       <HW2 />
       <HW3 />
-      {/*<HW4 />*/}
+      <HW4 />
     </div>
   );
 }
