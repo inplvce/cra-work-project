@@ -4,12 +4,12 @@ import {Input} from './Input';
 import S from './HW4.module.css';
 
 
-
 export const HW4 = () => {
     const [currentText, setCurrentText] = useState<string>(''); // Укажите тип string для currentText
     const [texts, setTexts] = useState<string[]>([
         'То, что вы делаете по ночам, то и делает вас богатым. (Аль Капоне)',
-    ]);`1`
+    ]);
+    `1`
 
     const handleSave = () => {
         setTexts([...texts, currentText]);
