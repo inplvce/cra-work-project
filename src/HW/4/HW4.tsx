@@ -10,6 +10,7 @@ export const HW4 = () => {
         'То, что вы делаете по ночам, то и делает вас богатым. (Аль Капоне)',
     ]);
 
+
     const handleSave = () => {
         setTexts([...texts, currentText]);
         setCurrentText('');
