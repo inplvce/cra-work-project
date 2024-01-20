@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cra-work-project/static/css/main.073c9b0a.css",
-    "main.js": "/cra-work-project/static/js/main.04793b3d.js",
+    "main.css": "/cra-work-project/static/css/main.af2f1d43.css",
+    "main.js": "/cra-work-project/static/js/main.ee1d4d5a.js",
     "static/js/787.177e23c2.chunk.js": "/cra-work-project/static/js/787.177e23c2.chunk.js",
     "index.html": "/cra-work-project/index.html",
-    "main.073c9b0a.css.map": "/cra-work-project/static/css/main.073c9b0a.css.map",
-    "main.04793b3d.js.map": "/cra-work-project/static/js/main.04793b3d.js.map",
+    "main.af2f1d43.css.map": "/cra-work-project/static/css/main.af2f1d43.css.map",
+    "main.ee1d4d5a.js.map": "/cra-work-project/static/js/main.ee1d4d5a.js.map",
     "787.177e23c2.chunk.js.map": "/cra-work-project/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.04793b3d.js"
+    "static/css/main.af2f1d43.css",
+    "static/js/main.ee1d4d5a.js"
   ]
 }
